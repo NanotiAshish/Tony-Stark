@@ -6,3 +6,4 @@ for i in rage (10):
 print("Completed")
 
 print("Thanks for this first Code")
+print("Added to check merging")
